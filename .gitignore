@@ -4,3 +4,7 @@ wrangler.toml
 artifacts/
 .idea
 cache/
+input.json
+output.json
+cache_forge/
+out/
